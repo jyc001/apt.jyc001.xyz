@@ -4,7 +4,7 @@ Maintainer: jyc
 Architecture: iphoneos-arm
 Filename: ./debfiles/com.jyc.zthf.deb
 Version: 1.0
-Depends: firmware (>= 99.0)
+Depends: firmware (>= 1.0)
 Description: 一
 Name: 字体恢复
 Author: jyc
