@@ -1,11 +1,11 @@
 Package: com.jyc.zthf
-Section: System
+Section: ziti
 Maintainer: jyc
 Architecture: iphoneos-arm
 Filename: ./debfiles/com.jyc.zthf.deb
 Version: 12.1.1
 Depends: firmware (>= 1.0)
-Description:字体恢复 
+Description: 
 Name: 字体恢复
 Author: jyc
 Md5sum: 2f9293cd795f16e9bdf2b49a8f376b5d
